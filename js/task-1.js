@@ -1,5 +1,3 @@
-
-
 function slugify(title) {
 let titleSmall = title.toLowerCase();
 let titleTogether = titleSmall.split(` `);
